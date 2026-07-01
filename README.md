@@ -18,20 +18,20 @@
 ## 💻 Languages & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,html" alt="C# and HTML">
-  <img src="https://img.shields.io/badge/Skript-Minecraft-62B47A?style=for-the-badge" alt="Skript">
+  <img src="https://skillicons.dev/icons?i=cs,html" height="48" alt="C# and HTML">
+  <img src="https://avatars.githubusercontent.com/u/39464898?s=96&v=4" width="48" height="48" alt="Skript">
 </p>
 
 ## 🖥️ Operating Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple" alt="Windows, Ubuntu and Apple">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple" height="48" alt="Windows, Ubuntu and Apple">
 </p>
 
 ## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="48" alt="VS Code, Git and GitHub">
 </p>
 
 ## 📫 Contact
