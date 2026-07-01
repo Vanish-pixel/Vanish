@@ -13,8 +13,7 @@
 - 🖥️ Interested in system integration and IT infrastructure
 - ⚙️ Working with servers, networks and administration
 - 🎮 Creating Minecraft projects with Skript
-- 🌐 Part of the management team at Skydinse
-- 🚀 Always learning and building new things
+- 🌐 Management at Skydinse.net
 
 ## 💻 Languages & Technologies
 
@@ -26,7 +25,7 @@
 ## 🖥️ Operating Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" alt="Windows, Linux and Ubuntu">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple" alt="Windows, Ubuntu and Apple">
 </p>
 
 ## 🛠️ Tools
@@ -35,13 +34,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub">
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanish-pixel&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats">
-</p>
-
 ## 📫 Contact
 
-- Discord: `DEIN_DISCORD-NAME`
-- Website: `DEINE-WEBSITE`
+- Discord: `vaniish7_`
+- Mail: `vanish.management@gmx.de`
