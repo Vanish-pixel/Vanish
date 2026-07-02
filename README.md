@@ -31,33 +31,20 @@
 ## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,discord" height="48" alt="VS Code, GitHub and Discord">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,discord" height="48" alt="VS Code, Git, GitHub and Discord">
 </p>
 
 ## 🏅 Certifications
 
 <p>
   <a href="https://www.credly.com/badges/d3acab40-69e2-4607-a972-837e4f76c6d2/public_url">
-    <img src="./assets/cisco-introduction-to-cybersecurity.png" width="150" alt="Cisco Introduction to Cybersecurity">
-  </a>
-</p>
-
-<p>
-  <a href="DEIN_MICROSOFT_LEARN_LINK">
-    <img src="https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn">
+    <img src="https://raw.githubusercontent.com/Vanish-pixel/Vanish-pixel/main/cisco-cybersecurity.png" width="90" alt="Cisco Introduction to Cybersecurity">
   </a>
 
-  <a href="DEIN_CISCO_LINK">
-    <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Profile-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy">
-  </a>
-
-  <a href="DEIN_CREDLY_PROFIL_LINK">
-    <img src="https://img.shields.io/badge/Credly-Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
-  </a>
-
-  <a href="https://github.com/Vanish-pixel">
-    <img src="https://img.shields.io/badge/GitHub-Vanish--pixel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?style=flat-square&logo=microsoft&logoColor=white" height="22" alt="Microsoft Learn">
+  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Profile-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="22" alt="Cisco Networking Academy">
+  <img src="https://img.shields.io/badge/Credly-Credentials-FF6B00?style=flat-square&logo=credly&logoColor=white" height="22" alt="Credly">
+  <img src="https://img.shields.io/badge/GitHub-Vanish--pixel-181717?style=flat-square&logo=github&logoColor=white" height="22" alt="GitHub">
 </p>
 
 ## 📫 Contact
