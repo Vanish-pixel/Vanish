@@ -38,13 +38,10 @@
 
 <p>
   <a href="https://www.credly.com/badges/d3acab40-69e2-4607-a972-837e4f76c6d2/public_url">
-    <img src="https://raw.githubusercontent.com/Vanish-pixel/Vanish-pixel/main/cisco-cybersecurity.png" width="80" height="80" alt="Cisco Introduction to Cybersecurity">
+    <img src="./IMG_4463.png" width="120" alt="Cisco Certification">
   </a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="80" height="80" alt="Microsoft">
-  <img src="https://cdn.simpleicons.org/cisco" width="80" height="80" alt="Cisco">
-  <img src="https://cdn.simpleicons.org/credly" width="80" height="80" alt="Credly">
-  <img src="https://cdn.simpleicons.org/github" width="80" height="80" alt="GitHub">
+  <img src="./IMG_4461.png" width="120" alt="Cisco Introduction to Cybersecurity">
 </p>
 
 ## 📫 Contact
