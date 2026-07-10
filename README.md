@@ -29,6 +29,8 @@ team @ skydinse · builds websites · reboots stuff until it works
 
 </div>
 
+<br />
+
 <div align="center">
 
 <img src="assets/matrix.svg" width="100%" alt="matrix rain terminal" />
