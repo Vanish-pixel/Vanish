@@ -29,13 +29,19 @@ team @ skydinse · builds websites · reboots stuff until it works
 
 </div>
 
+## `~/skin`
+
+<div align="center">
+
+<img src="https://minotar.net/armor/body/Vanish7/300.png" width="180" alt="Vanish7 minecraft skin" />
+
+</div>
+
 ## `~/activity`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanish-pixel&bg_color=0D1117&color=8B949E&line=3FB950&point=C9D1D9&hide_border=true&area=true&area_color=3FB950" width="100%" />
-
-<img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vanish-pixel/Vanish-pixel/output/github-contribution-grid-snake-dark.svg" />
