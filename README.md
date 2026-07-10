@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="valentin@skydinse terminal" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=System+Integration+%26+IT-Infrastruktur;Server+%C2%B7+Netzwerke+%C2%B7+Administration;Minecraft-Dev+mit+Skript;Management+%40+Skydinse" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=sudo+rm+-rf+langeweile%2F;while%28true%29+%7B+skript%28%29%3B+%7D;systemctl+restart+kaffee.service;es+l%C3%A4uft+auf+meinem+server+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" />
 
 ![visitors](https://komarev.com/ghpvc/?username=Vanish-pixel&color=3fb950&style=flat-square&label=visitors)
 
@@ -10,37 +10,22 @@
 
 ## `~/about`
 
-<table>
-  <tr>
-    <td>🖥️</td>
-    <td><b>Rolle</b></td>
-    <td>System Integration &amp; IT-Infrastruktur</td>
-  </tr>
-  <tr>
-    <td>🌐</td>
-    <td><b>Fokus</b></td>
-    <td>Server · Netzwerke · Administration</td>
-  </tr>
-  <tr>
-    <td>🎮</td>
-    <td><b>Nebenbei</b></td>
-    <td>Minecraft-Projekte mit Skript</td>
-  </tr>
-  <tr>
-    <td>🚀</td>
-    <td><b>Team</b></td>
-    <td>Management @ Skydinse</td>
-  </tr>
-</table>
+```console
+valentin@skydinse:~$ cat about.txt
+cat: about.txt: Datei nicht gefunden
 
-## `~/stack`
+valentin@skydinse:~$ sudo cat about.txt
+🎮 baut zeug mit skript   🖥️ hält server am leben   ☕ läuft auf koffein
+```
+
+## `~/loadout`
 
 <div align="center">
 
-| Languages | Platforms | Tools |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=cs,html,css" height="40" /> <img src="https://avatars.githubusercontent.com/u/39464898?s=64&v=4" height="40" title="Skript" /> | <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple" height="40" /> | <img src="https://skillicons.dev/icons?i=vscode,git,github,discord" height="40" /> |
-| C# · HTML · CSS · Skript | Windows · Ubuntu · macOS | VS Code · Git · GitHub · Discord |
+<img src="https://skillicons.dev/icons?i=cs,html,css" height="44" />
+<img src="https://avatars.githubusercontent.com/u/39464898?s=64&v=4" height="44" title="Skript" />
+
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,apple,vscode,git,github,discord" height="44" />
 
 </div>
 
@@ -59,7 +44,7 @@
 
 </div>
 
-## `~/contact`
+## `~/ping valentin`
 
 <div align="center">
 
