@@ -97,10 +97,4 @@
       <animateTransform attributeName="transform" type="translate" from="0 -65" to="0 260" dur="3.1s" begin="0.0s" repeatCount="indefinite"/>
     </g>
   </g>
-
-  <g font-size="16" opacity="0">
-    <rect x="230" y="90" width="360" height="42" fill="#0d1117" opacity="0.85"/>
-    <text x="410" y="118" text-anchor="middle" fill="#e6edf3" font-weight="700">wake up, valentin.</text>
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3;0.4;0.85;1" dur="8s" begin="1s" repeatCount="indefinite"/>
-  </g>
 </svg>
