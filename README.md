@@ -29,11 +29,11 @@ team @ skydinse · builds websites · reboots stuff until it works
 
 </div>
 
-## `~/skin`
+## `~/matrix`
 
 <div align="center">
 
-<img src="https://minotar.net/armor/body/Vanish7/300.png" width="180" alt="Vanish7 minecraft skin" />
+<img src="assets/matrix.svg" width="100%" alt="matrix rain terminal" />
 
 </div>
 
