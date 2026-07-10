@@ -10,37 +10,37 @@
 
 ## `~/about`
 
-```console
-valentin@skydinse:~$ neofetch
-
-  Role       » System Integration & IT-Infrastruktur
-  Focus      » Server · Netzwerke · Administration
-  Side       » Minecraft-Projekte mit Skript
-  Team       » Management @ Skydinse
-  Languages  » C# · HTML · CSS · Skript
-  OS         » Windows 11 · Ubuntu Server · macOS
-  Editor     » VS Code
-  Uptime     » 99.9% (der Rest war geplant, versprochen)
-
-valentin@skydinse:~$ ./skydinse --status
-  [ OK ] servers ........ running
-  [ OK ] network ........ stable
-  [ OK ] minecraft ...... skripting
-```
+<table>
+  <tr>
+    <td>🖥️</td>
+    <td><b>Rolle</b></td>
+    <td>System Integration &amp; IT-Infrastruktur</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Fokus</b></td>
+    <td>Server · Netzwerke · Administration</td>
+  </tr>
+  <tr>
+    <td>🎮</td>
+    <td><b>Nebenbei</b></td>
+    <td>Minecraft-Projekte mit Skript</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><b>Team</b></td>
+    <td>Management @ Skydinse</td>
+  </tr>
+</table>
 
 ## `~/stack`
 
 <div align="center">
 
-**Languages** &nbsp;
-<img src="https://skillicons.dev/icons?i=cs,html,css" height="36" />
-<img src="https://avatars.githubusercontent.com/u/39464898?s=64&v=4" height="36" style="border-radius:8px" title="Skript" />
-
-**Platforms** &nbsp;
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,apple" height="36" />
-
-**Tools** &nbsp;
-<img src="https://skillicons.dev/icons?i=vscode,git,github,discord" height="36" />
+| Languages | Platforms | Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=cs,html,css" height="40" /> <img src="https://avatars.githubusercontent.com/u/39464898?s=64&v=4" height="40" title="Skript" /> | <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple" height="40" /> | <img src="https://skillicons.dev/icons?i=vscode,git,github,discord" height="40" /> |
+| C# · HTML · CSS · Skript | Windows · Ubuntu · macOS | VS Code · Git · GitHub · Discord |
 
 </div>
 
@@ -79,13 +79,5 @@ valentin@skydinse:~$ ./skydinse --status
 [![Discord](https://img.shields.io/badge/Discord-vaniish7__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vaniish7_)
 &nbsp;
 [![Email](https://img.shields.io/badge/Mail-vanish.management@gmx.de-3FB950?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanish.management@gmx.de)
-
-</div>
-
----
-
-<div align="center">
-
-`echo "building systems one config file at a time"`
 
 </div>
