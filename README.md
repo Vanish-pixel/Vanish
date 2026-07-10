@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="valentin@skydinse terminal" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=building+stuff+with+skript;have+you+tried+turning+it+off+and+on+again%3F;works+on+my+server+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;404%3A+sleep+not+found" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=building+stuff+with+skript;have+you+tried+turning+it+off+and+on+again%3F;works+on+my+server+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;afk+%3D+probably+fixing+a+server" alt="Typing SVG" />
 
 ![visitors](https://komarev.com/ghpvc/?username=Vanish-pixel&color=3fb950&style=flat-square&label=visitors)
 
