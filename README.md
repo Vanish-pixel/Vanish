@@ -51,8 +51,6 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vanish-pixel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=8B949E&rank_icon=github" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-pixel&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=8B949E" />
 
-<img src="https://streak-stats.demolab.com?user=Vanish-pixel&hide_border=true&background=0D1117&fire=3FB950&ring=3FB950&currStreakLabel=3FB950&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=Vanish-pixel&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
