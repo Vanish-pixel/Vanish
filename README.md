@@ -16,7 +16,7 @@
 <br />
 
 **Community & Project Management** · [skydinse.net](https://skydinse.net)<br />
-Community management, coordination of community projects, event organization and team support.
+Community management, coordination of community projects and event organization.
 
 <br />
 
