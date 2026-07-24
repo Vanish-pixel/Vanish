@@ -1,4 +1,7 @@
-<img src="assets/hero.svg" width="100%" alt="Hello — I am Valentin. I build practical projects around systems, networks and cybersecurity." />
+<p align="center">
+  <img src="assets/ticker.svg" width="900" alt="" />
+</p>
+
 
 ## About me
 
@@ -30,3 +33,7 @@ A Discord bot for internal team warnings with structured warning levels and logg
 ---
 
 [Portfolio](https://vanish-pixel.github.io/portfolio/) · [Discord](https://discord.com/users/1333795027444564071) · [Email](mailto:vanish.management@gmx.de)
+
+<p align="center">
+  <img src="assets/market.svg" width="900" alt="" />
+</p>
